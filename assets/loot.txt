@@ -1,0 +1,64 @@
+Talt~6
+Ionium~6
+Quartz~6
+Aidanium~6
+Etretanium~6
+Refined Talt~6
+Refined Ionium~6
+Refined Quartz~6
+Refined Aidanium~6
+Refined Etretanium~6
+Pure Talt~6
+Pure Ionium~6
+Pure Quartz~6
+Pure Aidanium~6
+Pure Etretanium~6
+Mega Talt~50
+Mega Ionium~50
+Mega Quartz~50
+Mega Aidanium~50
+Mega Etretanium~50
+Bulk Coal~6
+Copper Piece~6
+Iron Piece~6
+Steel Piece~6
+Reinforced Leather~30
+Caboose~20
+Composite Steel~30
+Cast Iron~30
+High Quality Wood~30
+Piece of Sapphire~150
+Sapphire~1000
+High Quality Sapphire~2000
+Piece of Emerald~150
+Emerald~1000
+High Quality Emerald~2000
+Piece of Ruby~150
+Ruby~1000
+High Quality Ruby~2000
+Elite Dragon Coat~100000
+Elite La Ventisca~100000
+Elite Pendera Jacket~100000
+Elite Metallic Suit~100000
+Elite Bone Frame Armor~100000
+Elite Rescue Suit~100000
+Broinac~800
+Alegrais~1600
+Striform~1600
+La Calabrone~400
+The Black Dragon~10000
+The Grim-wraith~10000
+Dead Scythe~10000
+Daemon Slayer~10000
+Conqueror Shotgun~5000
+Pizarro~5000
+Cortes~4000
+Golden Shotgun~100
+Beam-Gun~30
+Elite Sniper Rifle Bayonet~5000
+Elite Silver Javelin~5000
+Capezzolo di Pericolo~15
+Elite La Ventisca
+Clara Mago~15
+Sword Breaker~10000
+Pure Gold Bar~2

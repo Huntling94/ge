@@ -1,0 +1,288 @@
+Broad Sword~Sword~1~2~32~1
+Reinbrink~Sword~12~4~44~28
+Sword of Veteran~Sword~20~6~64~41
+Schivanoa~Sword~28~8~70~275
+Elite Long Sword~Sword~28~12~116~7425
+Templar Sword~Sword~44~12~96~1760
+Excalibur~Sword~60~18~134~67375
+Arondight~Sword~72~19~147~11688
+Skullic Edge~Sword~92~23~172~96250
+The Grim-wraith~Sword~100~30~224~206250
+Altair's Cunning~Sword~110~33~261~165000
+.28 Cal. Match-lock Rifle~Rifle~1~2~51~13
+.30 Cal. Match-lock Rifle~Rifle~12~4~71~72
+.28 Cal. Wheel-lock Rifle~Rifle~20~6~91~286
+.32 Cal. Wheel-lock Rifle~Rifle~28~8~112~715
+.32 Cal. Brown Bess~Rifle~36~10~132~1716
+Bakir Rifle~Rifle~44~11~153~4576
+.32 Cal. Dreyse~Rifle~52~14~183~4826
+.38 Cal. Dreyse de Artiero~Rifle~60~17~204~45760
+Cayenne Rifle~Rifle~64~16~204~5500
+Sharps Rifle Bayonet~Rifle~72~18~224~103950
+.38 Cal. Sniper Rifle~Rifle~76~20~244~35750
+.48 Cal. Finisher~Rifle~84~21~255~165000
+Executioner Rifle~Rifle~92~25~295~165000
+The Black Dragon~Rifle~100~30~359~220000
+Elite Black Dragon~Rifle~100~32~381~220000
+Serpent Rifle~Rifle~100~32~381~165000
+Tempest of Aquarius~Rifle~110~33~392~-1
+The Equalizer~Pistol~16~4~53~77
+Antique Pistol~Pistol~16~4~57~39
+Handgun~Pistol~20~6~72~57
+Short Musket~Pistol~24~7~79~96
+Handgun de Hitter~Pistol~24~7~86~385
+Snaphance~Pistol~28~8~86~154
+Elite Handgun~Pistol~28~12~131~10395
+Wheel-lock Pistol~Pistol~32~9~93~231
+Plum Shooter~Pistol~32~11~100~3465
+Golden Maiden~Pistol~36~10~100~347
+Wheel-lock Pistol de Hitter~Pistol~36~10~110~1386
+Revolver~Pistol~44~12~115~963
+Nedler~Pistol~44~14~122~15400
+Beam-Gun~Pistol~48~12~115~1925
+Golden Revolver~Pistol~48~13~122~1540
+Level-action Revolver~Pistol~52~14~129~2598
+Elite Chassepot~Pistol~52~18~172~53900
+Lever-action Revolver~Pistol~56~15~129~10395
+The 6-in-a-row~Pistol~56~15~136~4620
+Westwod~Pistol~60~16~144~6160
+Outlaw~Pistol~60~18~151~94325
+Iron Pistol~Pistol~64~16~144~12320
+Cayenne Handgun~Pistol~64~16~144~5500
+Magnum~Pistol~68~18~151~9433
+Twin-barreled Revolver~Pistol~68~18~158~13475
+Elite Revolver~Pistol~68~22~199~111650
+The Unforgiven~Pistol~72~19~165~16363
+Mustang Strider~Pistol~76~20~172~19250
+Stars and Stripes~Pistol~76~22~180~165000
+Signed Mustang Strider~Pistol~80~21~172~77000
+Claude Baudez Nique~Pistol~84~21~180~92400
+Elite Claude Baudez Nique~Pistol~84~26~200~211750
+Elite Mustang Strider~Pistol~84~26~226~211750
+Enhanced Golden Striker~Pistol~84~26~221~211750
+Golden Striker~Pistol~92~23~194~134750
+Quattro Pinned~Pistol~92~25~208~165000
+Desert Storm~Pistol~100~30~253~220000
+Elite Antique Pistol~Pistol~100~30~253~144375
+Elite Beam Gun~Pistol~100~30~253~144375
+Elite Echo of Steel~Pistol~100~30~279~144375
+Elite Iron Pistol~Pistol~100~30~253~144375
+Serpent Revolver~Pistol~100~32~269~220000
+Intuition of Al Rischa~110~33~283~165000
+Old Shot Gun~Shotgun~28~7~77~825~
+Shotgun~Shotgun~40~10~98~2970
+Buckshot~Shotgun~48~13~119~3300
+Blunderbuss~Shotgun~52~14~126~5568
+Elite Shotgun~Shotgun~52~18~168~115500
+Semi-auto Shotgun~Shotgun~56~15~133~9900
+Clayshooter~Shotgun~60~16~140~13200
+Destroyer~Shotgun~64~17~14~20213
+Imperial Shooter~Shotgun~68~18~154~28875
+Elite Semi-auto Shotgun~Shotgun~68~22~197~222000
+Dread Buster~Shotgun~72~19~161~35063
+Stun Gun~Shotgun~76~20~168~140250
+Full Auto~Shotgun~80~22~175~165000
+Gold Imperial Shooter~Shotgun~84~21~175~165000
+Elite Clayshooter~Shotgun~84~26~226~220000
+Elite Imperial Shooter~Shotgun~84~26~226~220000
+Venom Shooter~Shotgun~88~22~182~165000
+Wrath~Shotgun~92~25~203~165000
+Golden Shotgun~Shotgun~96~24~196~165000
+Conqueror Shotgun~Shotgun~100~30~246~220000
+Serpent Shooter~Shotgun~100~32~261~220000
+Blunder of Lykaon~110~33~269~165000
+Crescemento Polearm~Polearm~1~2~60~1
+Spear~Polearm~16~4~72~99
+Long Spear~Polearm~20~6~90~74
+Long Spear de Salvador~Polearm~24~8~99~495
+Scythe~Polearm~28~7~99~248
+Pole-axe~Polearm~28~8~99~495
+Elite Guisarme~Polearm~28~12~163~13365
+Harpoon~Polearm~32~8~108~220
+Trident~Polearm~36~10~117~1188
+Guisarme~Polearm~40~11~135~792
+Frozen Marlin~Polearm~44~11~148~330
+Bill Guisarme~Polearm~44~12~144~1238
+Pike~Polearm~48~13~153~1980
+Bill Guisarme de Salvador~Polearm~48~13~168~7920
+Spetum~Polearm~52~14~162~3341
+Elite Spetum~Polearm~52~18~218~69300
+Brandistock~Polearm~56~15~171~5940
+Halberd~Polearm~60~16~180~7920
+Joust Lance~Polearm~60~18~189~121275
+Grim-ripper~Polearm~64~16~180~8800
+Muses Gigantestar~Polearm~64~16~180~15840
+Bec de Corbin~Polearm~68~18~198~17325
+Corsesca~Polearm~68~18~189~48510
+Elite Muspellheim~Polearm~68~22~255~143550
+War Hammer~Polearm~72~18~198~19250
+Broinac~Polearm~72~19~207~21038
+Muerte Balada~Polearm~76~20~207~84150
+Gungnir~Polearm~76~20~207~84150
+Muspellheim~Polearm~80~21~216~99000
+Thickened Muerte Balada~Polearm~84~21~225~118800
+Elite Broinac~Polearm~84~26~292~220000
+Elite Muerte Balada~Polearm~84~26~292~220000
+Dragon Lance~Polearm~92~23~243~165000
+Spear of Behemoth~Polearm~92~25~261~165000
+Dead Scythe~Polearm~100~30~337~103125
+Gigantic Poleaxe~Polearm~100~30~316~220000
+Elite Muses Gigantestar~100~100~30~349~165000
+Elite Scythe~Polearm~100~30~349~165000
+Serpent Spear~Polearm~100~32~357~220000
+Leadership of Hamal~Polearm~110~33~382~165000
+Knife~Dagger~1~2~24~7
+Dagger~Dagger~8~3~28~13
+Small Knife~Dagger~12~3~33~11
+Round Knife~Dagger~12~4~33~22
+Round Knife de Salvador~Dagger~12~4~41~44
+Elite Baselard~Dagger~12~8~67~2200
+Dagger of Selden~Dagger~16~4~38~22
+Baselard~Dagger~16~5~38~44
+Butterfly~Dagger~20~6~48~33
+Pugio~Dagger~20~6~43~88
+Kukiri~Dagger~24~7~52~55
+Butterfly de Salvador~Dagger~24~7~57~220
+Bowie Knife~Dagger~28~8~57~88
+Elite Pugio~Dagger~28~12~86~5940
+Yatagan~Dagger~32~9~62~132
+Cinquedea~Dagger~36~10~67~198
+Yatagan de Assasino~Dagger~36~11~67~792
+Scrama Sax~Dagger~40~11~72~352
+Eared Dagger~Dagger~44~12~76~550
+Pirate Knife~Dagger~48~12~76~1100
+Xiphos~Dagger~48~13~81~880
+Sosun Pattah~Dagger~52~14~86~1485
+Elite Eared Dagger~Dagger~52~18~115~30800
+Jambiya~Dagger~56~15~91~2640
+Sickle Knife~Dagger~60~16~96~3520
+Rondell~Dagger~60~18~100~53900
+Kris~Dagger~64~17~100~5390
+Dirk~Dagger~68~18~105~7700
+Persqabz~Dagger~68~18~105~7700
+Dirk~Dagger~72~19~105~30800
+Bone Knife~Dagger~76~20~110~37400
+Mystic Knife~Dagger~80~21~115~44000
+Sharpened Persqabz~Dagger~84~21~120~52800
+Elite Mystic Knife~Dagger~84~26~153~121000
+Claw of Pepito~Dagger~88~22~124~63800
+Black Tongue~Dagger~92~25~139~165000
+Assassin Dagger~Dagger~100~30~168~165000
+Elite Small Knife~Dagger~100~30~168~82500
+White Dagger~Dagger~100~32~172~220000
+Impulse of Algedi~Dagger~110~33~196~165000
+Old Blade~Sabre~1~1~39~11
+Practice Blade~Sabre~12~4~54~30
+Blade de Salvador~Sabre~12~4~68~61
+Elite Blade~Sabre~12~8~110~3025
+Tessak~Sabre~20~6~70~121
+Falcata~Sabre~20~6~78~46
+Sabre~Sabre~24~7~85~77
+Falcata de Salvador~Sabre~24~7~93~303
+Cutlass~Sabre~28~8~93~121
+Elite Cutlass~Sabre~28~12~142~8168
+Sabre of Rogue~Sabre~32~8~93~242
+Shamshir~Sabre~36~10~101~726
+Karabela~Sabre~36~10~109~272
+Shimmering Falcon~Sabre~40~11~109~1089
+Talwar~Sabre~44~12~124~756
+Wind Slicer~Sabre~44~14~132~12100
+Pirate Cutlass~Sabre~48~12~124~1513
+Talwar de Salvador~Sabre~48~13~145~4840
+Falchion~Sabre~52~14~140~2043
+Elite Shamshir~Sabre~52~18~190~42350
+Sabre of Trooper~Sabre~56~15~148~3630
+Sabre of Cavalier~Sabre~60~16~156~4840
+Bandersnatch~Sabre~64~16~156~17600
+Screaming Blade~Sabre~64~17~163~7411
+Blood Edge~Sabre~68~18~171~10588
+Elite Slicer~Sabre~68~22~222~87725
+Sabre of Admiral~Sabre~72~19~179~12856
+Sabre of General~Sabre~76~20~187~15125
+Pirate Sabre~Sabre~80~20~187~27500
+Devilish Blood Edge~Sabre~84~21~195~72600
+Elite Sabre~Sabre~84~26~254~166375
+Helius~Sabre~92~25~226~165000
+Lich-Lord Blade~Sabre~96~24~218~127050
+Vampiric Edge~Sabre~100~30~274~220000
+Elite Dance of Steel~Sabre~100~30~291~165000
+Golden Damascus~Sabre~100~32~308~220000
+Will of Acubens~Sabre~110~33~317~165000
+Silver Javelin~Javelin~72~18~158~69300
+Silver-tipped Javelin~Javelin~76~19~165~84150
+Cortes~Javelin~Javelin~80~20~172~99000
+Elite Silver Javelin~Javelin~84~26~224~69300
+Elite Cortes~Javelin~92~28~228~99000
+Pizarro~Javelin~96~24~201~165000
+Elite Pizarro~Javelin~100~30~245~143550
+Serpent Javelin~Javelin~100~32~269~143550
+Insight of Antares~Javelin~110~33~277~165000
+Old Bastard Sword~Great Sword~1~1~51~17
+Highlander Sword~Great Sword~24~7~112~138
+Claymore~Great Sword~28~12~195~14850
+Elite Bastard Sword~Great Sword~28~12~195~14850
+Saw-blade~Great Sword~32~9~132~330
+Flamberge~Great Sword~36~10~142~495
+Castor Sword~Great Sword~40~10~151~495
+Great Sword~Great Sword~44~12~163~1375
+Sharktooth~Great Sword~44~12~153~3520
+Vident Hander~Great Sword~48~13~173~2200
+Zweihander~Great Sword~52~14~183~3713
+Elite Vident Hander~Great Sword~52~18~272~77000
+Killer~Great Sword~56~15~193~6600
+Executioner Sword~Great Sword~60~16~204~8800
+Giant Sword~Great Sword~60~16~224~8800
+Balmung~Great Sword~64~17~224~35200
+Earthcracker~Great Sword~68~18~258~19250
+Elite Slayer~Great Sword~68~22~323~159500
+Muses Bahiaspada~Great Sword~72~18~224~19250
+Sword of the Champion~Great Sword~72~18~224~19250
+Kaladbolg~Great Sword~76~20~234~93500
+Pollux~Great Sword~80~20~259~27500
+Genocider~Great Sword~80~21~281~33000
+Capybara Saw~Great Sword~84~23~275~173250
+Destruction of Steel~Great Sword~84~26~314~220000
+Elite Earthcracker~Great Sword~84~26~374~220000
+Elite Kaladbolg~Great Sword~84~26~349~220000
+Big Bang~Great Sword~92~25~357~165000
+Dragon Slayer~Great Sword~92~23~321~165000
+Dragon Sword~Great Sword~92~23~292~165000
+Daemon Slayer~Great Sword~100~30~418~220000
+Daemon Sword~Great Sword~100~30~380~220000
+Elite Castor Sword~Great Sword~100~30~418~103125
+Elite Pollux Sword~Great Sword~100~30~418~103125
+Elite Daemon Slayer~Great Sword~100~32~444~220000
+Sword of the King~Great Sword~100~32~428~220000
+Passion of Regulus~Great Sword~110~33~458~165000
+Candlestick~Rapier~16~4~43~28
+Fleuret~Rapier~44~Rapier~12~86~825
+Practice Epee~48~Rapier~13~91~1320
+Fleuret de Salvador~Rapier~48~13~100~5280
+High Quality Practice Epee~Rapier~52~14~97~2228
+Elite Epee~Rapier~52~18~140~46200
+Practice Rapier~Rapier~56~15~102~3960
+Blind Star~Rapier~Rapier~60~18~113~80850
+Rapier de Assasino~Rapier~60~17~108~21120
+High Quality Practice Rapier~Rapier~64~17~108~21120
+Frambergs Rapier~Rapier~68~18~113~32340
+Elite Rapier~Rapier~68~22~156~95700
+Phase D' Armes~Rapier~72~19~118~46200
+Schweizer Rapier~Rapier~76~20~124~56100
+La Calabrone~Rapier~84~21~129~66000
+Elite Calabrone~Rapier~84~26~172~181500
+Skeleton Epee~Rapier~92~23~145~115500
+Killer Bee~Rapier~92~25~156~165000
+Grim-wight~Rapier~100~30~190~220000
+Elite Candlestick~Rapier~100~30~190~103125
+Sword of Knight~Rapier~100~32~201~220000
+Purity of Aldebaran~Rapier~110~33~207~160875
+Sword Breaker~Main Gauche~100~30~179~180000
+Pioneer's Rifle~Rifle~100~27~336~200000
+Pioneer's Pistol~Pistol~100~27~237~200000
+Pioneer's Shotgun~Shotgun~100~27~231~200000
+Pioneer's Great Sword~Great Sword~100~27~372~200000
+Pioneer's Polearm~Polearm~100~27~297~200000
+Pioneer's Rapier~Rapier~100~27~178~200000
+Pioneer's Sabre~Sabre~100~27~257~200000
+Pioneer's Sword~Sword~100~27~211~200000
+Pioneer's Dagger~Dagger~100~27~158~200000

@@ -1,0 +1,60 @@
+Health Amplee~Consumable~27~Restores your health by 200 hitpoints
+Health Potion~Consumable~135~Restores your health by 1000 hitpoints
+Health Liquor~Consumable~270~Restores your health by 2500 hitpoints
+Health Filler~Consumable~1050~Restores your health by 10000 hitpoints
+Soul Potion~Consumable~108~Restores your mana by 50 manapoints
+Soul Liquor~Consumable~324~Restores your mana by 250 manapoints
+Soul Filler~Consumable~720~Restores your mana by 600 manapoints
+Silver Bar~Non-Consumable~50000~Bar of Silver! Pretty valuable!
+White Gold Bar~Non-Consumable~1000000~Bar of White Gold! Very valuable!
+Elemental Jewel~Non-Consumable~10000000~An Elemental Jewel! Best store of value!
+Bulk Coal~Non-Consumable~41~This is where fuel comes from!
+Copper Piece~Non-Consumable~13~Pollished copper piece.
+Iron Piece~Non-Consumable~28~Corroded iron piece. When treated well, it can be used to make different items.
+Steel Piece~Non-Consumable~55~Extremely durable metal created by refining iron.
+Caboose~Non-Consumable~11~Cacao Beans from the Continent that makes Chocolate.
+High Quality Wood~Non-Consumable~308~Carefully processed scented wood. Commonly used for gun handles and staffs.
+Composite Steel~Non-Consumable~330~Strong metal made of iron and coal. Main material used in short weapons and armour.
+Enchantment Chip Novice~Non-Consumable~1130~A chip that enhances an item between Level 1 and 80 once.
+Enchantment Chip Level 84~Non-Consumable~2310~A chip that enchants an item once.
+Enchantment Chip Level 88~Non-Consumable~2310~A chip that enchants an item once.
+Enchantment Chip Level 92~Non-Consumable~2310~A chip that enchants an item once.
+Enchantment Chip Level 96~Non-Consumable~2310~A chip that enchants an item once.
+Enchantment Chip Level 100~Non-Consumable~2310~A chip that enchants an item once.
+Enchantment Chip Level~Non-Consumable~2310~A chip that enchants an item once.
+Talt~Non-Consumable~20~Tool set with different functions used for construction.
+Ionium~Non-Consumable~34~Flawless smooth White ore used as ingredients for several items.
+Quartz~Non-Consumable~47~Ore that has six crystal faces all over the new continent.
+Aidanium~Non-Consumable~62~Light, silver ore specially available on the continent. Many items are made from this refined ore.
+Refined Talt~Non-Consumable~99~Tool set with different functions used for construction.
+Refined Ionium~Non-Consumable~132~Flawless smooth White ore used as ingredients for several items.
+Refined Quartz~Non-Consumable~182~Ore that has six crystal faces all over the new continent.
+Refined Aidanium~Non-Consumable~198~Light, silver ore specially available on the continent. Many items are made from this refined ore.
+Refined Etretanium~Non-Consumable~215~White, silver ore specially on the continent. Costly since it has small yield.
+Pure Talt~Non-Consumable~330~Tool set with different functions used for construction.
+Pure Ionium~Non-Consumable~385~Flawless smooth White ore used as ingredients for several items.
+Pure Quartz~Non-Consumable~440~Ore that has six crystal faces all over the new continent.
+Pure Aidanium~Non-Consumable~495~Light, silver ore specially available on the continent. Many items are made from this refined ore.
+Pure Etretanium~Non-Consumable~550~White, silver ore specially on the continent. Costly since it has small yield.
+Mega Talt~Non-Consumable~660~A kind of sarira stone found on the Continent.
+Mega Ionium~Non-Consumable~770~Flawless smooth White ore.
+Mega Quartz~Non-Consumable~880~Ore that has six crystal faces all over the new continent.
+Mega Aidanium~Non-Consumable~990~Light, silver ore specially available on the continent.
+Mega Etretanium~Non-Consumable~1100~White, silver ore specially found at beach town. It has spells and many uses but it is very costly.
+Piece of Sapphire~Non-Consumable~10450~Small piece of sapphire. A broken fragment of another gem.
+Sapphire~Non-Consumable~27500~A luminous blue precious stone.
+High Quality Sapphire~Non-Consumable~54450~A finely chiseled gem with lush color and glowing luminance. Nobles use it as accessories.
+Piece of Emerald~Non-Consumable~10450~Small piece of emerald. A broken fragment of another gem.
+Emerald~Non-Consumable~27500~A deep green jewel with healing powers.
+High Quality Emerald~Non-Consumable~54450~A finely chiseled gem of enhancement green and mysterious depth. A valuable item.
+Piece of Ruby~Non-Consumable~10450~Small piece of rubies. A broken fragment of another gem.
+Ruby~Non-Consumable~27750~A fiery red precious stone.
+High Quality Ruby~Non-Consumable~54450~A finely chiseled gem with lush color and fiery brilliance.
+Snail Shell~Non-Consumable~138~Snail Skin from Bahamar, used to craft Serpent Weapons.
+Old Chess piece~Non-Consumable~138~Looks like somebody lost it in the swamp area during exploration. Useful to craft strong weapons.
+Recipe - Elite Dragon Coat~Non-Consumable~220000~Recipe for a coat designed to flaunt dragon scales and wings.
+Recipe - Elite La Ventisca~Non-Consumable~220000~Recipe for clothes based on clothes worn by Ice Sorceress Novia.
+Recipe - Elite Pendera Jacket~Non-Consumable~220000~Recipe for a leopard print coat.
+Recipe - Elite Metallic Suit~Non-Consumable~220000~Recipe for a further developed version of a metal-suit that is designed for mobility.
+Recipe - Elite Bone Frame Armor~Non-Consumable~220000~Recipe for a strong and light leather armour strengthened and decorated with bones of fallen warriors.
+Recipe - Elite Rescue Suit~Non-Consumable~220000~Recipe for a comfortable suit for rescue personnel.

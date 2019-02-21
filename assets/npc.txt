@@ -1,0 +1,17 @@
+Item Merchant~Item~Generic~Talk~Buy~Sell~Finished~==~Reboldeaux
+Claude Baudez~Weapon~Polearm~Talk~Buy~Sell~Finished~==~Reboldeaux
+Najib Sharif~Weapon~Rifle~Talk~Buy~Sell~Finished~==~Reboldeaux
+Diego the Carpenter~Weapon~Dagger~Talk~Buy~Sell~Finished~==~Reboldeaux
+Idge Imbrulia~Weapon~Great Sword~Talk~Buy~Sell~Finished~==~Reboldeaux
+Soho~Weapon~Sword~Talk~Upgrade~Buy~Sell~Finished~==~Port Coimbra
+Grace Bernelli~Weapon~Shotgun~Talk~Buy~Sell~Finished~==~Port Coimbra
+Adelina the Pirate~Weapon~Sabre~Talk~Buy~Sell~Finished~==~Port Coimbra
+Carlos~Weapon~Rapier~Talk~Buy~Sell~Finished~==~Port Coimbra
+Andre~Armour~Leather~Talk~Buy~Sell~Finished~==~Reboldeaux
+Marcielo~None~None~Talk~Rock Paper Scissors~Finished~==~Gigante Island
+Monster Scholar~None~None~Research Monster~Finished~==~City of Auch
+Brunie Etienne~Weapon~Pistol~Buy~Sell~Finished~==~Reboldeaux
+Metal Armour Merchant~Armour~Metal~Buy~Sell~Finished~==~Port Coimbra
+Upgrade Merchant~None~None~Upgrade~Finished~==~Reboldeaux~City of Auch
+Enchantment Merchant~None~None~Enchant~Finished~==~City of Auch
+Level 100 Pioneering Merchant~None~None~Talk~Exchange~Finished~==~City of Auch

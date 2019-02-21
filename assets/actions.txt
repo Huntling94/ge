@@ -1,0 +1,10 @@
+Waypoint
+Leave Location
+Wander Around
+Display Character Information
+Display Combat Stats
+Display Apparel
+Modify Apparel (Equip/Unequip)
+Display Inventory
+NPCS
+Save and Exit

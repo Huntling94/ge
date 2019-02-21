@@ -1,0 +1,211 @@
+Baby Cockatrice~4~723~114~373~2~45~2~15~2~15~15~15~15~Reboldeaux Stone Pit~==~Talt~Copper Piece
+Elite Baby Cockatrice~5~1009~448~373~2~59~2~18~2~35~35~35~35~Reboldeaux Stone Pit~==~Talt~Copper Piece
+Grassland Crocodile~4~705~120~226~2~28~2~15~2~16~16~16~15~Reboldeaux Stone Pit~Ferrucio Junction~==~Talt~Copper Piece
+Elite Grassland Crocodile~8~1222~1062~226~2~41~4~21~4~36~36~36~35~Ferrucio Junction~==~Talt~Copper Piece
+Green Mandradora~4~723~145~400~1~98~2~15~2~15~15~15~15~Reboldeaux Stone Pit~==~Talt~Copper Piece
+Red Mandradora~6~822~332~400~1~112~3~16~3~16~16~16~15~Ferrucio Junction~==~Copper Piece
+Leaping Croc~10~1066~455~226~2~36~5~19~5~16~16~16~15~Ferrucio Junction~==~Talt~Copper Piece
+Hill Giant (Boss)~11~19500~273000~628~2~315~7~18~7~40~40~40~40~Ferrucio Junction~==
+Striped Blade Wild Boar~9~1004~409~206~1~64~4~18~4~16~16~16~15~Ferrucio Junction~==~Talt~Bulk Coal
+Hound~13~1259~446~253~1~92~6~23~6~16~16~16~15~Al Quelt Moreza (Dungeon)~==~Iron Piece~Ionium
+Rusty Zealot~12~1034~393~340~2~67~6~25~6~7~7~7~5~Al Quelt Moreza (Dungeon)~==~Ionium
+Striped Spider~14~1326~603~266~1~102~7~22~7~16~16~16~15~Al Quelt Moreza (Dungeon)~==~Ionium
+Elite Striped Spider~14~1720~1784~266~1~124~7~25~7~36~36~36~35~Al Quelt Moreza (Dungeon)~==~Ionium
+Hound Leader (Boss)~17~12221~82517~152~1~103~10~25~10~30~30~30~30~Al Quelt Moreza (Dungeon)~==~Bulk Coal~Iron Piece
+Fiery Gavi di Gavi~109~16414~10377~440~2~1277~54~116~54~77~47~-63~0~Lago Celeste~==~Ruby~Pure Talt~Pure Ionium~Pure Quartz~Pure Aidanium~Pure Etretanium
+Plain Yellow Phobitan Imp~108~14726~6145~266~2~622~54~96~54~36~36~36~25~Lago Celeste~==~Ruby~Caboose
+Striped Spider of Fire~107~15984~10107~266~1~1097~53~63~90~66~-44~20~Lago Celeste~==~High Quality Ruby~Ruby~Pure Talt~Pure Ionium~Pure Quartz~Pure Aidanium~Pure Etretanium
+Golden Spider (Boss)~110~146664~3153600~160~1~4577~57~123~57~30~30~30~30~Lago Celeste~==~Ruby
+Crocodilian~106~4760~19208~226~2~273~53~81~53~27~27~27~15~Rio Abli~==~Emerald~Pure Talt~Pure Ionium~Pure Quartz~Pure Aidanium~Pure Etretanium
+Grassland Comodo~108~4535~19191~393~2~468~54~83~54~27~27~27~15~Rio Abli~==~Emerald~High Quality Sapphire~Pure Talt~Pure Ionium~Pure Quartz~Pure Aidanium~Pure Etretanium
+Spotty Yellow Phobitan Imp~105~3507~16363~266~2~378~52~87~52~37~37~37~25~Rio Abli~==~Emerald~Rosa Matrimonio~Pure Talt~Pure Ionium~Pure Quartz~Pure Aidanium~Pure Etretanium
+Giant Comodo (Boss)~110~178295~3153600~348~1~6636~57~123~57~30~30~30~30~Rio Abli~==~Dragon Slayer~Emerald~Mega Talt~Skeleton Epee~Pure Talt~Pure Ionium~Pure Quartz~Pure Aidanium~Pure Etretanium
+Black Widow~17~1455~1152~266~1~119~8~25~8~17~17~17~15~Cathari Falls~==~High Quality Wood~Bulk Coal~Iron Piece
+Elite Black Widow~22~2361~4377~266~1~163~11~33~11~37~37~37~35~Cathari Falls~==~High Quality Wood~Bulk Coal~Iron Piece~Quartz
+Skeleton Leader (Boss)~27~14508~292250~100~1~228~15~30~15~30~30~30~30~Cathari Falls~King's Garden~==~Steel Piece
+Brown Bison~20~1658~1185~406~1~206~10~26~10~18~18~18~15~King's Garden~==~Quartz~Steel Piece
+Elite Brown Bison~25~2646~4408~406~1~276~12~33~12~38~38~38~35~King's Garden~==~Steel Piece
+Grizzly Bear~21~1728~1268~240~1~124~10~26~10~18~18~18~15~King's Garden~==~Quartz
+Little Comodo~19~1590~1103~393~2~95~9~25~9~18~18~18~15~King's Garden~Cathari Falls~==~Steel Piece~Bulk Coal~Iron Piece
+Lazim-Lam~22~1386~1308~260~1~162~11~29~11~29~29~29~25~Tetra Hill~King's Garden~==~Quartz
+Elite Lazim-Lam~30~2346~5216~260~1~231~15~40~15~48~48~48~45~Tetra Hill~King's Garden~==~Steel Piece~Aidanium
+Little Plaque Eton~25~1501~1283~273~1~185~12~31~12~68~-42~90~30~Tetra Hill~Tetra Ruins (Dungeon)~==~Quartz
+Little Plaque Noir~23~1393~1122~273~1~174~11~30~11~-42~90~68~30~Tetra Hill~Tetra Ruins (Dungeon)~==~Quartz
+Little Plaque Rogue~23~1393~1122~272~1~174~11~30~11~90~68~-48~30~Tetra Hill~Tetra Ruins (Dungeon)~==~Quartz
+Yellow Phobitan Leader (Boss)~32~18155~344400~160~2~2~121~18~33~18~30~30~30~Tetra Hill~==~Composite Steel
+Yellow Phobitan Warrior~26~1556~976~266~2~94~13~32~13~28~28~28~25~Tetra Ruins (Dungeon)~==~Composite Steel
+Yellow Phobitan Warrior Leader (Boss)~35~20346~287500~160~2~134~19~35~19~30~30~30~30~Tetra Ruins (Dungeon)~==~Compoite Steel
+Barrel Octopus~36~2657~2055~273~3~74~18~39~18~20~20~20~15~Porto Bello~==~Etretanium~Refined Ionium
+Crate Octopus~36~2657~2055~273~3~74~18~39~18~20~20~20~15~Porto Bello~==~Etretanium~Refined Ionium
+Elite Barrel Octopus~50~5119~9041~273~108~25~56~25~40~40~40~35~Porto Bello~==~Refined Ionium
+Elite Crate Octopus~49~5000~8776~273~3~106~24~55~24~40~40~40~35~Porto Bello~==~Refined Ionium
+Gavi di Gavi~39~2353~2033~440~2~238~19~59~19~0~0~0~-5~Porto Bello~Porto Bello (Dungeon)~==~Refined Quartz
+Gavi di Gavi Leader (Boss)~54~37811~258224~264~2~505~29~59~29~30~30~30~30~Porto Bello~==~Refined Quartz
+Scarlet Claw~40~2604~2240~273~1~265~20~54~20~10~10~10~5~Porto Bello (Dungeon)~==~Refined Talt
+Nosiar~41~2604~2240~273~1~265~20~54~20~10~10~10~5~Porto Bello (Dungeon)~==~Refined Talt
+Mermain Chieftain (Boss)~58~42829~245784~244~2~530~31~54~31~30~30~30~30~Porto Bello (Dungeon)~==~Mega Talt
+Armed Tortoise~63~4911~10114~200~1~259~31~53~31~21~21~21~15~Porto Bello Deserted Quay~Porto Bello Desolate Cliff~==~Refined Aidanium
+Bomber Tortoise~64~5009~7543~200~1~267~32~58~32~21~21~21~15~Porto Bello Deserted Quay~Porto Bello Desolate Cliff~==~Refined Aidanium
+Rotting Bomber Tortoise~65~5108~7595~200~1~270~32~59~32~21~21~21~15~Porto Bello Deserted Quay~==~Refined Talt~High Quality Wood~Piece of Emerald
+Steel Armed Tortoise~63~4911~10257~200~1~264~31~66~31~21~21~21~15~Porto Bello Deserted Quay~==~Refined Aidanium~Piece of Emerald
+Wahlansche (Boss)~67~52696~621348~408~4~523~35~69~35~50~90~-50~30~Porto Bello Deserted Quay~Porto Bello Desolate Cliff~==~Beam-gun~Mega Talt~Refined Etretanium~Piece of Emerald~Piece of Ruby
+Bellboy of Mein (Boss)~100~535788~322413~264~2~3984~52~132~52~0~0~0~0~Porto Bello Desolate Cliff~==
+Captain Vergo the Cursed (Boss)~70~60318~805980~184~3~551~37~76~37~30~30~30~30~Porto Bello Desolate Cliff~==~Mega Talt~Piece of Ruby
+Steel Anchor~68~4072~7131~406~2~372~34~79~34~2~2~2~5~Porto Bello Deserted Quay~==
+Vergo the Cursed (Boss)~110~269589~1877136~336~3~7941~57~143~57~55~55~55~55~Porto Bello Deserted Quay~==~==~Mega Talt~Piece of Ruby
+Thief Bony~98~2822~11436~480~2~535~49~94~49~18~18~18~5~Topolo Durga~==~Mega Aidanium~Mega Etretanium~Mega Ionium~Mega Talt~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Thief Bully~100~2904~10275~326~3~246~50~96~50~18~18~18~5~Topolo Durga~==~Mega Aidanium~Mega Etretanium~Mega Ionium~Mega Talt~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Thief Leader~101~2945~10607~240~1~541~50~96~50~18~18~18~5~Topolo Durga~==~Mega Aidanium~Mega Etretanium~Mega Ionium~Mega Talt~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Yellow Phobitan General (Boss)~104~142326~3234000~196~1~5785~54~130~54~30~30~30~30~Topolo Durga~==~Golden Shotgun~Mega Aidanium~Mega Etretanium~Mega Ionium~Mega Talt~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Bear Walker~104~20288~11058~480~1~1906~52~155~52~9~9~9~10~Deprimida Valley~Via Fluvial~==~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium~Mega Aidanium~Mega Etretanium~Mega Ionium
+Blade Antelope~104~14707~11058~400~1~4671~52~124~52~9~9~9~10~Deprimida Valley~==~Capezzolo di Pericolo~Clara Mago~Pure Gold Bar~Mega Aidanium~Mega Etretanium~Mega Ionium
+Celegrimworm~105~18445~11212~280~1~1162~52~143~52~10~10~10~11~Deprimida Valley~==~Elite Sniper Rifle Bayonet~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium~Mega Aidanium~Mega Etretanium~Mega Ionium
+Diseased Capybara Worker~104~14148~7737~353~2~953~52~186~52~9~9~9~10~Deprimida Valley~==~Pizarro~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium~Mega Aidanium~Mega Etretanium~Mega Ionium
+Elite Bear Worker~105~30213~28812~480~1~7627~52~156~52~29~29~29~30~Deprimida Valley~==~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium~Mega Aidanium~Mega Etretanium~Mega Ionium
+Elite Blade Antelope~104~27014~21345~400~1~7566~52~124~52~29~29~29~30~Deprimida Valley~Via Fluvial~==~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium~Mega Aidanium~Mega Etretanium~Mega Ionium
+Elite Diseased Capybara Warrior~104~27014~21345~353~2~1318~52~186~52~29~29~29~30~Deprimida Valley~==~Pizarro~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium~Mega Aidanium~Mega Etretanium~Mega Ionium
+Plain Merman Eater (Boss)~106!1003632~370511~264~1~8367~55~151~55~30~30~30~30~Deprimida Valley~Abertal~Via Fluvial~==
+Dream Blade Antelope (Boss)~101~1070928~393685~240~1~7187~52~108~52~30~30~30~60~Deprimida Valley~Via Fluvial~==
+Anteater~102~19655~6365~306~1581~51~97~51~7~7~7~10~Abertal~Via Fluvial~==~Cortes~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium~Mega Aidanium~Mega Etretanium~Mega Ionium
+Diseased Capybara~102~11511~6365~406~1~5621~51~109~51~7~7~7~10~Abertal~==~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium~Mega Aidanium~Mega Etretanium~Mega Ionium
+Elite Diseased Capybara~102~26198~13859~406~1~7400~51~122~51~27~27~27~30~Abertal~==~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium~Mega Aidanium~Mega Etretanium~Mega Ionium
+Spiked Rock~101~14805~6274~386~1~1425~50~108~50~6~6~6~10~Abertal~==~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium~Mega Aidanium~Mega Etretanium~Mega Ionium
+Diseased Capybara Leader (Boss)~102~168702~2882000~244~1~7220~53~103~53~30~30~30~30~Abertal~==~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium~Mega Aidanium~Mega Etretanium~Mega Ionium
+Capybara~102~16343~17358~406~1~3900~51~122~51~9~9~9~10~Capybara Plantation (Dungeon)~==~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium~Mega Aidanium~Mega Etretanium~Mega Ionium
+Capybara Warrior~104~14148~28948~353~2~2169~52~186~52~11~11~11~11~Capybara Plantation (Dungeon)~==~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium~Mega Aidanium~Mega Etretanium~Mega Ionium
+Elite Vampire Bat Lord~106~10638~29840~440~1~2619~53~100~53~30~30~30~31~Capybara Plantation (Dungeon)~==~Elite Bone Frame Armor
+Gullfaxi (Boss)~106~1433760~1041077~564~2~21319~55~100~55~40~40~40~40~Capybara Plantation (Dungeon)~==
+Celemantis~103~12387~9885~473~1~4648~51~79~51~8~8~8~10~Via Fluvial~==~High Quality Emerald~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium~Mega Aidanium~Mega Etretanium~Mega Ionium
+Elite Anteater~102~37058~15119~306~1~1805~51~122~51~27~27~27~30~Via Fluvial~==~Cortes~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium~Mega Aidanium~Mega Etretanium~Mega Ionium
+Crimson Gargoyle~70~2741~6233~380~535~35~72~35~34~34~34~25~Vegas Javier~==
+Crying Croc~3805~7254~226~2~277~34~57~34~90~64~-46~20~Vegas Javier~==
+Grassland King~84~16479~23790~440~2~1333~42~124~42~-21~72~42~Vegas Javier~==
+Griffon (Boss)~110~4051464~2457414~244~1~17571~57~143~57~30~60~60~60~Vegas Javier~==
+Demonische~83~6331~11091~253~1~436~41~72~41~22~22~22~15~El Tejado Verde~==~Mega Talt~Reinforced Leather~Enchantment Chip Novice~Piece of Emerald~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Doggy Bomber~78~5187~15045~420~1~1622~39~63~39~23~23~23~15~El Tejado Verde~Pradera de Ceniza~==~Pure Talt~Piece of Emerald
+Doggy Panzer~77~5100~14770~273~1~1045~38~63~38~23~23~23~15~El Tejado Verde~Pradera de Ceniza~==~Pure Talt~Piece of Emerald
+Gavi di light~80~4490~8944~440~2~475~40~90~40~43~-67~73~0~El Tejado Verde~==~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Light Zebra-eater~81~5692~12300~266~1~465~40~65~`40~63~-47~90~20~El Tejado Verde~==
+Violent Demonische (Boss)~85~104226~1129800~152~1~1766~44~89~44~90~-50~50~30~El Tejado Verde~==
+Cruel Comodo~97~7841~5847~393~2~317~48~76~48~-45~90~65~20~El Ruina de Memoria~==~Alegrais~Broinac~Cast Iron~Striform~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Ghost Baron~99~3904~5974~340~1~1736~49~95~~49~15~15~15~5~El Ruina de Memoria~==~La Calabrone~Emerald~Mega Talt~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Elite Ghost Baron~100~3432~21054~340~1~1189~50~108~50~35~35~35~25~El Ruina de Memoria~==~La Calabrone~Emerald~Mega Talt~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Violent Ghost Baron (Boss)~102~96323~1048000~204~1~4983~53~97~53~30~30~30~30~El Ruina de Memoria~==~La Calabrone~Emerald~Mega Talt~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Dandelion Swamp Monkey~50~3607~5230~393~2~223~25~45~25~22~22~22~15~El Lago de Tres Hermanas~Thueringenwald~==
+Dynamiter~50~3132~4761~333~2~204~25~56~25~12~12~12~5~El Lago de Tres Hermanas~Thueringenwald~==
+Hammer-picker~53~3166~5030~400~1~513~26~57~26~12~12~12~5~El Lago de Tres Hermanas~==
+Slasher~52~3166~5030~266~1~342~26~57~26~12~12~12~5~El Lago de Tres Hermanas~==
+Sunflower Dandelion Swamp Monkey (Boss)~75~83091~1174250~250~2~1084~39~71~39~30~30~30~30~El Lago de Tres Hermanas~Thueringenwald~==
+Gray Buffalo~67~5153~7972~406~1~573~33~~56~33~22~22~22~15~Thueringenwald~==
+Violent Tortoise~65~4781~7811~200~1~279~32~59~32~22~22~22~15~Thueringenwald~==
+Bloody Hound-eater~78~5187~12780~266~1~973~39~68~39~23~23~23~15~Pradera de Ceniza~==
+Cehcos~80~5171~11027~266~1~943~40~65~40~90~63~-47~20~Pradera de Ceniza~==
+Sechos~81~5257~11236~266~1~952~40~65~40~-47~90~63~20~Pradera de Ceniza~==
+Violent Gehcos (Boss)~84~104543~110200~160~1~1924~44~78~44~30~30~30~30~Pradera de Ceniza~==
+Diablo (Boss)~105~1378090~983946~212~1~9838~54~162~54~50~40~50~50~Pradera de Ceniza~==
+Cockatrices Chill~65~3711~763~373~2~492~32~55~32~24~24~24~15~Rion Prairie~Bonavista River~==
+Cockatrices Flame~65~3711~7463~373~2~492~32~55~32~24~24~24~15~Rion Prairie~Bonavista River~==
+Cockatrices Shock~65~3711~7463~373~2~492~32~55~32~24~24~24~15~Rion Prairie~Bonavista River~==
+Rion Bear~64~3699~7856~340~1~917~32~58~32~24~24~24~15~Rion Prairie~==
+Joaquin Comodo~64~3699~6692~393~2~530~32~58~32~24~24~24~15~Rion Prairie~==
+Giant Cockatrice (Boss)~70~84798~799920~300~2~1964~37~81~37~30~30~30~30~Rion Prairie~Bonavista River~==
+Joaquin Bear~82~4862~11058~240~1~707~41~71~41~24~24~24~15~Joaquin Crater~==
+Joaquin Grizzly~83~4942~11347~240~1~687~41~72~41~24~24~24~15~Joaquin Crater~==
+Joaquin Wild-dog~84~4815~11394~273~1~752~42~67~42~24~24~24~15~Joaquin Crater~Lava Plateau of Joaquin~==
+Elite Joaquin Bear~85~7138~30059~240~1~768~42~84~42~44~44~44~35~Joaquin Crater~==
+Elite Joaquin Grizzly~85~7128~30255~240~1~741~42~84~42~44~44~44~35~Joaquin Crater~==
+Elite Joaquin Wild-Dog~85~6664~29011~273~1~798~42~78~42~44~44~44~35~Joaquin Crater~Lava Plateau of Joaquin~==
+Violent Joaquin Bear (Boss)~85~110933~1129800~1~2646~44~94~44~30~30~30~30~Joaquin Crater~==
+Achebald~90~3420~9419~266~1~633~45~99~45~16~16~16~5~El Canon de Diabolica~==
+Dupesteen~88~3316~9118~266~1~622~44~97~44~16~16~16~5~El Canon de Diabolica~==
+Groandoric~89~3367~9269~266~1~627~44~98~44~16~16~16~5~El Canon de Diabolica~==
+Harrower~~86~4242~9893~253~1~572~43~74~43~26~26~26~15~El Canon de Diabolica~==
+Tvanjesti~87~4309~10062~1~578~43~74~43~26~26~26~15~El Canon de Diabolica~==
+Violent Ghost Baron (Boss)~91~82133~1069200~204~1~4534~47~88~47~30~30~30~30~El Canon de Diabolica~==
+Angry Comodo~88~20052~8039~393~2~853~44~135~44~45~45~45~45~Lava Plateau of Joaquin~==
+Mahrgorp~86~5356~5728~340~1~901~43~79~43~24~24~24~15~Lava Plateau of Joaquin~==
+Zahrgorp~85~4218~5630~340~1~1091~42~78~43~24~24~24~15~Lava Plateau of Joaquin~==
+Mahrgorp Leader (Boss)~90~119198~1052400~204~1~3977~47~99~47~30~30~30~30~Lava Plateau of Joaquin~==
+Jabberwock~89~3704~10750~446~1~1445~44~119~44~5~5~5~-5~Prison de Joaquin (Dungeon)~==
+Plateau Anchor~101~15406~13755~305~1~3100~51~96~51~50~90~-50~10~Scorching Plateau~==
+Octopus~102~21610~13955~205~1~3011~52~79~52~50~90~-50~10~Scorching Plateau~==~Conqueror Shotgun~Elite Pendera Jacket~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Kragen~100~17450~10844~205~2~1294~51~72~51~50~90~-50~10~Scorching Plateau~==~High Quality Ruby~Elite Dragon Coat~Sword Breaker~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Oannes~101~18580~13755~170~1~2480~51~78~51~50~90~-50~10~Scorching Plateau~==Elite La Ventisca~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Elite Plateau Anchor~101~47495~40572~305~1~11082~51~121~51~50~90~-50~30~Scorching Plateau~==~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Elite Kragen~100~46807~30892~205~2~5540~51~120~51~50~90~-50~30~Scorching Plateau~==~High Quality Ruby~Elite Dragon Coat~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Elite Oannes~101~43158~40572~170~1~3556~51~90~51~50~90~-50~30~Scorching Plateau~==~Elite La Ventisca~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Arctic Merman Eater (Boss)~114~1432944~527324~264~1~9535~59~174~59~30~90~30~30~Scorching Plateau~Ferrucio Wall~Katovic Snowfield~Glacial Plain~==
+Visage~103~21058~15244~250~2~2029~52~110~52~50~90~-50~10~Ferrucio Wall~==~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Monegareum~102~20741~15029~285~2~1291~52~122~52~50~90~-50~10~Ferrucio Wall~==~Elite Pendera Jacket~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Jumeau Plaque~104~22576~15459~205~1~3757~53~99~53~50~90~-50~10~Ferrucio Wall~==Elite La Ventisca~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Grim-Reaper~105~18897~15674~305~1~5130~53~112~53~0~0~0~11~Ferrucio Wall~==~Dead Scythe~High Quality Sapphire~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Barrier Mehcos~102~13465~15029~200~1~4010~52~122~52~50~90~-50~10~Ferrucio Wall~==
+Elite Barrier Mehcos~102~43818~44327~200~1~4510~52~134~52~50~90~-50~30~Ferrucio Wall~==
+Elite Grim-Reaper~105~36211~46230~305~1~8599~53~125~53~20~20~20~31~Ferrucio Wall~==~Dead Scythe~High Quality Sapphire~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Elite Monegareum~102~42786~44327~285~2~1541~52~128~52~50~90~-50-30~Ferrucio Wall~==
+Grim-Reaper Leader (Boss)~105~148692~3825500~244~2~3801~54~131~54~30~30~30~30~Ferrucio Wall~==~Dead Scythe~High Quality Sapphire~Pure Talt~Pure Ionium~Pure Aidanium~Pure Quartz~Pure Etretanium
+Arctic Bear~108~30100~17485~240~1~1426~54~153~54~50~90~-50~11~Katovic Snowfield~Frozen Wastes~==
+Arctic Lazim-Lam~105~18897~16793~195~1~2398~53~87~53~50~90~-50~11~Katovic Snowfield~==
+Elcinos~107~23337~13708~286~1~3046~53~127~53~0~0~0~11~Katovic Snowfield~==
+Eletah~108~5654~10604~406~1~10228~54~128~54~0~0~0~0~Katovic Snowfield~Frozen Wastes~==
+Snowfield Wolf~106~11613~6906~205~1~1729~54~88~54~50~90~-50~11~Katovic Snowfield~==
+Elite Snowfield Wolf~106~46539~36473~205~1~2055~54~100~54~50~90~-50~31~Katovic Snowfield~==
+Elite Elcinos~107~93088~68443~286~1~6233~53~133~53~20~20~20~31~Katovic Snowfield~Frozen Wastes~==
+Elmorc (Boss)~1066~1720512~1086177~256~2~3048~55~189~55~30~90~30~30~Katovic Snowfield~Frozen Wastes~==
+Angry Big Bear~108~2061696~22365~340~1~31080~54~198~54~24~24~24~15~Frozen Wastes~==
+Arctic Swamp Monkey~109~24204~18896~295~1~2705~55~96~55~50~90~-50~11~Frozen Wastes~==
+Blizzard Revenant~110~27820~15582~326~1~6026~55~130~55~50~90~-50~11~Frozen Wastes~Glacial Plain~==
+Eligo~110~24948~15489~233~1~3913~55~130~55~0~0~0~11~Frozen Wastes~==
+Elviot~110~20956~15582~360~1~4475~55~130~55~0~0~0~11~Frozen Wastes~Glacial Plain~==
+Elite Arctic Swamp Monkey~109~48617~55735~295~1~6434~55~129~55~50~90~-50~31~Frozen Wastes~==
+Elite Eligo~110~97524~76563~233~1~5440~55~136~55~20~20~20~31~Frozen Wastes~==
+Elite Elviot~110~49563~76772~360~1~9961~55~162~55~20~20~20~31~Frozen Wastes~==
+Bigfoot~111~25520~16769~246~1~3448~55~131~55~0~0~0~11~Glacial Plain~==
+Eagle Head~111~26888~20600~255~1~2773~56~117~56~50~90~-50~11~Glacial Plain~==
+Exiled Valkyrie~115~1935000~100742~4~1632~58~202~58~0~90~-100~50~Glacial Plain~==
+Ice Rufus Faux~110~21712~20339~225~1~3665~56~117~56~50~90~-50~11~Glacial Plain~==
+Katovic Bear~112~28491~20878~255~1~3473~57~132~57~50~90~-50~11~Glacial Plain~==
+Elite Katovic Bear~112~69398~61581~255~1~7068~57~165~57~50~90~-50~31~Glacial Plain~==
+Elite Bigfoot~111~99050~82618~246~1~7380~55~144~55~20~20~20~31~Glacial Plain~==
+Avalanche Revenant (Boss)~114~176315~144905~364~1~13203~59~134~54~30~30~30~30~Glacial Plain~==
+Arop~85~3711~14129~246~1~517~42~68~42~26~26~26~15~Ustiur Zona Uno~==
+Dingo~84~13763~393~1~817~42~72~42~26~26~26~15~Ustiur Zona Uno~==
+Gimlet~85~3711~14129~513~1~1076~42~68~42~26~26~26~15~Ustiur Zona Uno~==
+Sabel Tiger (Boss)~103~160536~1722060~184~1~4878~53~104~53~50~90~-50~30~Ustiur Zona Uno~Ustiur Zona Dos~Ustiur Zona Tres~==
+Jungle Velociraptor~86~3771~14502~320~1~668~43~74~43~26~26~26~15~Ustiur Zona Dos~==
+Eripmav~89~3457~14426~373~1~769~44~76~44~27~27~27~15~Ustiur Zona Dos~Ustiur Zona Tres~==
+Gahbrius~90~2416~12454~380~1~914~45~77~45~37~37~37~25~Ustiur Zona Tres~==
+Hill Velociraptor~89~3457~14426~320~1~659~44~76~44~27~27~27~15~Ustiur Zona Tres~==
+Skeleton Raptor~98~2540~14799~320~1~825~49~106~49~8~8~8~-5~Ustiur Zona Cuatro~==
+Stegosaurus~99~3435~16747~513~1~1055~49~83~49~28~28~28~15~Ustiur Zona Cuatro~==
+Tyrannosaurus~100~3734~20982~340~1~722~52~87~52~28~28~28~15~Ustiur Zona Cuatro~==
+Egg of Angry Dinosaur~105~141450~9837~100~1~0~54~187~54~0~0~0~0~Ustiur Zona Cuatro~==
+Taurus~110~23073~10189~346~1~2983~55~123~55~11~11~11~11~Bahamar Wetlands~==
+Swamp Spider Crab~108~12193~8796~340~2~1901~54~76~54~10~10~10~11~Bahamar Wetlands~==
+Swamp Ghoul Spirit~109~17131~9267~346~7~335~54~64~54~10~10~10~11~Bahamar Wetlands~==
+King Snail~20175~9304~300~1~1107~54~129~54~12~12~12~11~Bahamar Wetlands~Bahamar Marsh~==
+Elite Swamp Spider Crab~109~21190~22024~340~2~2656~54~129~54~30~30~30~31~Bahamar Wetlands~Bahamar Deep Swamp~==
+Elite Swamp Ghoul Spirit~110~24494~17405~346~7~764~55~130~55~30~30~30~31~Bahamar Wetlands~==
+Elite Taurus~110~38314~22149~346~1~8480~55~136~55~31~31~31~31~Bahamar Wetlands~==
+Swamp Merman Eater (Boss)~110~1209600~479722~264~1~8942~57~162~57~30~30~30~30~Bahamar Wetlands~Bahamar Marsh~Bahamar Deep Swamp~Bahamar Murky Bayou~==
+Swamp Spider Crab Leader (Boss)~158941~4251520~204~2~3305~57~123~57~30~30~30~30~Bahamar Wetlands~==
+Locke~111~29993~9797~446~1~3944~55~196~55~14~14~14~11~Bahamar Marsh~Bahamar Deep Swamp~==
+Red Spider Crab~110~16572~9673~340~2~1634~55~97~55~14~14~14~11~Bahamar Marsh~Bahamar Deep Swamp~==
+Swamp Treasure Ghost~111~14644~10649~473~2~1196~55~104~55~13~13~13~11~Bahamar Marsh~==
+Jumping Fish~110~14394~9673~293~1~2372~55~78~55~12~12~12~11~Bahamar Marsh~Bahamar Murky Bayou~==
+Elite Locke~112~37709~24539~446~1~9247~56~198~56~34~34~34~31~Bahamar Marsh~==
+Elite Swamp Treasure Ghost~112~22160~26999~473~2~2277~56~118~56~33~33~33~31~Bahamar Marsh~==
+Elite Jumping Fish~111~21813~24211~293~1~3319~55~91~55~32~32~32~31~Bahamar Marsh~Bahamar Murky Bayou~==
+Swamp Angler (Boss)~108~2061696~1301417~180~1~5184~56~172~56~30~30~30~30~Bahamar Marsh~Bahamar Murky Bayou~==
+Escudo Prefer~112~24239~16549~553~1~5069~56~158~56~16~16~16~11~Bahamar Deep Swamp~Bahamar Murky Bayou~==
+Hornet~111~17034~16328~226~1~1258~55~91~55~15~15~15~11~Bahamar Deep Swamp~==
+Elite Escudo Prefer~113~35117~41444~553~1~11512~56~166~56~36~36~36~31~Bahamar Deep Swamp~Bahamar Murky Bayou~==
+Elite Hornet~112~25574~104948~226~1~2463~56~112~56~35~35~35~31~Bahamar Deep Swamp~==
+Escudo Prefer Leader (Boss)~114~173322~8001500~332~1~11691~59~134~59~30~30~30~30~Bahamar Deep Swamp~==
+Pink Wing Frog~113~12072~16770~340~1803~56~79~56~18~18~18~11~Bahamar Murky Bayou~==
+Myconid~114~23054~16991~340~1~7259~57~147~57~17~17~17~17~Bahamar Murky Bayou~==
+Elite Pink Wing Frog~114~26111~41989~16549~340~7150~56~145~56~17~17~17~11~Bahamar Murky Bayou~==
+Elite Myconid~114~43879~41989~340~1~8572~57~154~57~37~37~37~31~Bahamar Murky Bayou~==
+Blue Fish~113~24658~17955~340~5~1205~56~119~56~18~18~18~11~Bahamar Caves (Dungeon)~==
+King of Greed (Boss)~110~2419200~1832199~168~1~5896~57~188~57~30~30~30~30~Bahamar Caves (Dungeon)~==
+Vespanola (Boss)~120~16473~8273~272~1~3187~62~161~62~25~25~25~12~Caebolan~Titan's Remorse (Dungeon)~==

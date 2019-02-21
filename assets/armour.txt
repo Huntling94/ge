@@ -1,0 +1,105 @@
+Leather Tunic~Leather~1~2~28~7
+Leather Armour~Leather~12~4~39~28
+Amoladera Leather Armour~Leather~24~7~61~275
+Amoladera Hard-leather Armour~Leather~48~13~95~4400
+Studded Leather Armour~Leather~56~15~100~7425
+Ring Mail~Leather~68~18~123~9625
+Camisa de Soldado~Leather~76~18~123~165000
+Laranja e Preto~Leather~76~19~128~165000
+Capezzolo di Pericolo~Leather~84~21~140~165000
+Elite Camisa de Soldado~Leather~84~26~172~220000
+Elite Ring Mail~Leather~84~26~172~151250
+Bone Frame Armour~Leather~92~23~151~165000
+Le Blanc Leather Armour~Leather~100~27~178~220000
+Elite Bone Frame Amour~Leather~100~28~184~220000
+Elite Rescue Suit~Leather~100~28~184~220000
+Le Noir Leather Armour~Leather~100~29~190~220000
+Elite Le Blanc Leather Armour~Leather~100~30~197~220000
+Elite Le Noir Leather Armour~Leather~100~32~209~220000
+Coat~Coat~1~2~24~11
+Long Coat~Coat~12~4~33~33
+Amoladera Long Coat~Coat~24~7~52~330
+Redingote~Coat~32~9~57~528
+Amoladera Redingote~Coat~48~13~81~5280
+Justocorps~Coat~56~15~86~8910
+Graciegote~Coat~68~18~100~32340
+Albaes~Coat~80~20~115~165000
+Clara Mago~Coat~84~21~120~165000
+Dragon Coat~Coat~96~24~134~165000
+Corsair Rosso~Coat~100~27~153~220000
+Le Blanc Coat~Coat~100~27~153~220000
+Elite Dragon Coat~Coat~100~28~158~220000
+Le Noir Coat~Coat~100~29~163~220000
+Elite Le Blanc Coat~Coat~100~30~168~220000
+Elite Le Noir Coat~Coat~100~32~179~220000
+Gauntlet~Gloves~40~0~1~495
+Reinforced Gauntlet~Gloves~80~0~2~27500
+Mystic Gloves~Gloves~100~0~3~68750
+Hard Leather Boots~Boots~40~0~3~395
+Reinforced Hard Leather Boots~Boots~80~0~5~27500
+Tracking Boots~Boots~100~0~6~68750
+Scale Armour~Metal~28~8~76~165
+Armor of the Pirate~Metal~32~9~76~660
+Second type of Idge~Metal~32~8~76~660
+Amoladera Scale Armor~Metal~36~10~89~1485
+Consolidar Scale Armor~Metal~36~10~89~1485
+Chain Mail~Metal~40~11~96~660
+Consolidar Chain Mail~Metal~48~13~108~6600
+Breast Plate of Idge~Metal~48~15~121~13200
+Splint Mail~Metal~52~14~115~2785
+Third type of Idge~Metal~52~13~108~6600
+Elite Scale Armour~Metal~52~18~140~57750
+Amoladera Splint Mail~Metal~60~16~128~26400
+Consolidar Splint Mail~Metal~60~16~128~26400
+Plate Mail~Metal~64~16~128~26400
+Tempered Breast Plate of Idge~Metal~64~16~128~17600
+Field Plate Mail~Metal~68~18~134~40425
+Elite Chain Mail~Metal~68~22~168~119625
+Rusty Full-plate Mail~Metal~72~19~147~17531
+Full-plate Mail~Metal~76~20~147~70125
+Reinforced Full-plate Mail~Metal~80~21~153~82500
+Knight of the Templar~Metal~84~21~160~99000
+Elite Plate~Metal~84~26~197~220000
+Metallic Suit~Metal~88~22~166~119625
+Schvarlier Armour~Metal~100~27~204~220000
+Elite Metallic Suit~Metal~100~28~211~220000
+Elite Schvarlier Armour~Metal~100~30~225~220000
+Robe~Robe~1~2~24~7
+Robe of of Expert~Robe~8~2~33~1
+Amoladera Robe~Robe~12~4~38~50
+Elite Robe of Fire~Robe~12~8~62~2475
+Elite Robe of Ice~Robe~12~8~62~2475
+Elite Robe of Wind~Robe~12~8~62~2475
+Robe of Fire~Robe~20~6~48~39
+Robe of Ice~Robe~20~6~48~39
+Robe of Wind~Robe~20~6~48~39
+Amoladera Robe of Wind~Robe~24~7~52~248
+Robe of Flame~Robe~28~8~52~248
+Elite Robe of Hellfire~Robe~28~12~80~6683
+Elite Robe of Lightning~Robe~28~12~80~6683
+Elite Tempest Robe~Robe~28~12~80~6683
+Amoladera Robe of Wind~Robe~36~10~67~891
+Robe of Storm~Robe~40~11~72~396
+Robe of Thunder~Robe~48~13~81~990
+Tempest Robe~Robe~52~14~86~1672
+Elite Robe of Aurora~Robe~52~18~106~34650
+Elite Robe of Muspell~Robe~52~18~106~34650
+Elite Robe of Storm~Robe~52~18~106~34650
+The Pure White Robe~Robe~60~15~91~13750
+Robe of Sylph~Robe~64~17~100~6063
+Robe of Yeti~Robe~68~18~100~24255
+Elite Robe of Salamander~Robe~68~22~126~71775
+Elite Robe of Sylphide~Robe~68~22~126~71775
+Elite Robe of Yeti~Robe~68~22~126~71775
+The Elementalist~Robe~72~18~105~138600
+Alegrais~Robe~76~19~110~165000
+Robe of Neptune~Robe~84~21~120~14850
+Elite Alegrais~Robe~84~26~147~220000
+Elite Elementalist~Robe~84~26~147~220000
+La Ventisca~Robe~92~23~129~165000
+Le Blanc Robe~Robe~100~27~153~220000
+Rosa Matrimonio~Robe~100~27~153~220000
+Elite La Ventisca~Robe~100~28~158~220000
+Le Noir Robe~100~Robe~29~163~220000
+Elite Le Blanc Robe~Robe~100~30~168~220000
+Elite Le Noir Robe~Robe~100~32~179~220000
